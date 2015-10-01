@@ -1,4 +1,4 @@
-Official Nextbit Robin wiki
+Community Nextbit Robin wiki
 ==============
 
 Enter the [wiki](https://github.com/deadman96385/nextbit_private_wiki/wiki)
